@@ -5,9 +5,9 @@
   <subtitle>Yshawlon</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://www.txg850.github.io/"/>
+  <link href="https://mlgbz.eu.org/"/>
   <updated>2023-11-19T03:33:37.825Z</updated>
-  <id>https://www.txg850.github.io/</id>
+  <id>https://mlgbz.eu.org/</id>
   
   <author>
     <name>Tyzhao</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>VMware 安装 CentOS 8.1 完整教程 </title>
-    <link href="https://www.txg850.github.io/vmware-an-zhuang-centos-8-1-wan-zheng-jiao-cheng.html"/>
-    <id>https://www.txg850.github.io/vmware-an-zhuang-centos-8-1-wan-zheng-jiao-cheng.html</id>
+    <link href="https://mlgbz.eu.org/vmware-an-zhuang-centos-8-1-wan-zheng-jiao-cheng.html"/>
+    <id>https://mlgbz.eu.org/vmware-an-zhuang-centos-8-1-wan-zheng-jiao-cheng.html</id>
     <published>2020-03-05T10:29:16.000Z</published>
     <updated>2023-11-19T03:33:37.825Z</updated>
     
@@ -36,19 +36,19 @@
     
     </summary>
     
-      <category term="Linux" scheme="https://www.txg850.github.io/categories/Linux/"/>
+      <category term="Linux" scheme="https://mlgbz.eu.org/categories/Linux/"/>
     
     
-      <category term="VMware" scheme="https://www.txg850.github.io/tags/VMware/"/>
+      <category term="VMware" scheme="https://mlgbz.eu.org/tags/VMware/"/>
     
-      <category term="CentOS" scheme="https://www.txg850.github.io/tags/CentOS/"/>
+      <category term="CentOS" scheme="https://mlgbz.eu.org/tags/CentOS/"/>
     
   </entry>
   
   <entry>
     <title>Github + Hexo 搭建个人博客超详细教程</title>
-    <link href="https://www.txg850.github.io/1.html"/>
-    <id>https://www.txg850.github.io/1.html</id>
+    <link href="https://mlgbz.eu.org/1.html"/>
+    <id>https://mlgbz.eu.org/1.html</id>
     <published>2020-02-18T13:17:35.000Z</published>
     <updated>2023-11-19T03:33:37.825Z</updated>
     
@@ -65,14 +65,14 @@
     
     </summary>
     
-      <category term="Blog" scheme="https://www.txg850.github.io/categories/Blog/"/>
+      <category term="Blog" scheme="https://mlgbz.eu.org/categories/Blog/"/>
     
     
-      <category term="Github" scheme="https://www.txg850.github.io/tags/Github/"/>
+      <category term="Github" scheme="https://mlgbz.eu.org/tags/Github/"/>
     
-      <category term="Hexo" scheme="https://www.txg850.github.io/tags/Hexo/"/>
+      <category term="Hexo" scheme="https://mlgbz.eu.org/tags/Hexo/"/>
     
-      <category term="博客搭建" scheme="https://www.txg850.github.io/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+      <category term="博客搭建" scheme="https://mlgbz.eu.org/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     
   </entry>
   

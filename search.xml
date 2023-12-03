@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>article title</title>
+      <link href="/article-title.html"/>
+      <url>/article-title.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>VMware 安装 CentOS 8.1 完整教程 </title>
       <link href="/vmware-an-zhuang-centos-8-1-wan-zheng-jiao-cheng.html"/>
       <url>/vmware-an-zhuang-centos-8-1-wan-zheng-jiao-cheng.html</url>

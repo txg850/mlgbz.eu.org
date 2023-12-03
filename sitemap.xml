@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://mlgbz.eu.org/about/index.html</loc>
+    
+    <lastmod>2023-12-03T02:50:46.918Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://mlgbz.eu.org/article-title.html</loc>
+    
+    <lastmod>2023-12-03T01:56:16.220Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://mlgbz.eu.org/tags/index.html</loc>
     
     <lastmod>2023-11-19T03:33:37.828Z</lastmod>
@@ -9,14 +23,14 @@
   </url>
   
   <url>
-    <loc>https://mlgbz.eu.org/contact/index.html</loc>
+    <loc>https://mlgbz.eu.org/friends/index.html</loc>
     
     <lastmod>2023-11-19T03:33:37.827Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://mlgbz.eu.org/friends/index.html</loc>
+    <loc>https://mlgbz.eu.org/contact/index.html</loc>
     
     <lastmod>2023-11-19T03:33:37.827Z</lastmod>
     
@@ -37,13 +51,6 @@
   </url>
   
   <url>
-    <loc>https://mlgbz.eu.org/1.html</loc>
-    
-    <lastmod>2023-11-19T03:33:37.825Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://mlgbz.eu.org/vmware-an-zhuang-centos-8-1-wan-zheng-jiao-cheng.html</loc>
     
     <lastmod>2023-11-19T03:33:37.825Z</lastmod>
@@ -51,7 +58,7 @@
   </url>
   
   <url>
-    <loc>https://mlgbz.eu.org/about/index.html</loc>
+    <loc>https://mlgbz.eu.org/1.html</loc>
     
     <lastmod>2023-11-19T03:33:37.825Z</lastmod>
     
